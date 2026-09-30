@@ -1,4 +1,4 @@
-```  py 
+``` 
 What we've covered in OOP so far
 Classes & Objects
        ↓
