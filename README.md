@@ -1,4 +1,4 @@
-`` py 
+```  py 
 What we've covered in OOP so far
 Classes & Objects
        ↓
@@ -17,4 +17,4 @@ Method Overriding
 Polymorphism
        ↓
 Encapsulation  ← WE ARE HERE
-``
+```
